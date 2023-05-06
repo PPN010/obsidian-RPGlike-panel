@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-TimingBar",
+	"name": "TimingBar",
+	"version": "0.2.1",
+	"minAppVersion": "0.15.0",
+	"description": "Optional displays wait bar, current time, countdown, and positive timer in the status bar",
+	"author": "PPN010",
+	"authorUrl": "https://github.com/PPN010",
+	"isDesktopOnly": false
+}
